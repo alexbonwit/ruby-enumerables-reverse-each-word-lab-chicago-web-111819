@@ -9,3 +9,8 @@ def reverse_each_word(string)
     end
   reverse_array.join(' ')
 end
+
+def reverse_each_word(string)
+  reverse_array = []
+  word_array = string.split(' ')
+end
